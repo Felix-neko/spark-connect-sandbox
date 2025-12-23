@@ -1,0 +1,6 @@
+[project]
+name = "spark-connect-sandbox"
+version = "0.0.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = []
